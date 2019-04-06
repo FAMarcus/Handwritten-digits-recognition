@@ -1,1 +1,2 @@
 another foo.txt file, this time for TensorFLow
+- Upload do arquivo base para tratamento de imagens.
